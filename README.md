@@ -1,4 +1,2 @@
-# first-demo
-step towards new knowledge 
-</br>
-new begin 
+# mini project on DBMS
+start to learn new with the projects
